@@ -3,17 +3,6 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "TrainJam",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Slate",
-				"SlateCore"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "HoudiniEngine",
